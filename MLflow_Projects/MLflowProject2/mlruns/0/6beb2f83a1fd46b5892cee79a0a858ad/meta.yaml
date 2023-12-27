@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/6beb2f83a1fd46b5892cee79a0a858ad/artifacts
+end_time: 1703659240199
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6beb2f83a1fd46b5892cee79a0a858ad
+run_name: caring-snail-35
+run_uuid: 6beb2f83a1fd46b5892cee79a0a858ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703659233147
+status: 3
+tags: []
+user_id: CHS9NA

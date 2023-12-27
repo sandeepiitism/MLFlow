@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/4f01aa9d61e04e2eb8749704d526459e/artifacts
+end_time: 1703655234390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f01aa9d61e04e2eb8749704d526459e
+run_name: Experiment-27Dec_2023
+run_uuid: 4f01aa9d61e04e2eb8749704d526459e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703655223762
+status: 1
+tags: []
+user_id: CHS9NA

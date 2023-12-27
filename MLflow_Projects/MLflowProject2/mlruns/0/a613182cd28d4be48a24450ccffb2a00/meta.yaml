@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/a613182cd28d4be48a24450ccffb2a00/artifacts
+end_time: 1703659253100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a613182cd28d4be48a24450ccffb2a00
+run_name: thundering-zebra-912
+run_uuid: a613182cd28d4be48a24450ccffb2a00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703659246417
+status: 3
+tags: []
+user_id: CHS9NA

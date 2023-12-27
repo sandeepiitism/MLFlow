@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/1753a372735e40e99783568c8a0fceb2/artifacts
+end_time: 1703659283206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1753a372735e40e99783568c8a0fceb2
+run_name: clumsy-goat-690
+run_uuid: 1753a372735e40e99783568c8a0fceb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703659274925
+status: 3
+tags: []
+user_id: CHS9NA

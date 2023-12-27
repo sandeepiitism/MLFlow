@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/682774df67874418876d3bd72e948ef5/artifacts
+end_time: 1703659344497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 682774df67874418876d3bd72e948ef5
+run_name: casual-doe-448
+run_uuid: 682774df67874418876d3bd72e948ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703659334585
+status: 3
+tags: []
+user_id: CHS9NA

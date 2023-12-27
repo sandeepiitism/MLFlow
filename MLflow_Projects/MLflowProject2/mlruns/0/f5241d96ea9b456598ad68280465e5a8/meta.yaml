@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject2/mlruns/0/f5241d96ea9b456598ad68280465e5a8/artifacts
+end_time: 1703654821388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5241d96ea9b456598ad68280465e5a8
+run_name: caring-cow-618
+run_uuid: f5241d96ea9b456598ad68280465e5a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703654814969
+status: 3
+tags: []
+user_id: CHS9NA

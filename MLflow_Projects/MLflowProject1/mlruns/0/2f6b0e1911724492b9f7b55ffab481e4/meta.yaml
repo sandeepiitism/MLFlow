@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Sandeep_Drive/MachineLearning/MLFlow/MLflow_Projects/MLflowProject1/mlruns/0/2f6b0e1911724492b9f7b55ffab481e4/artifacts
+end_time: 1702968353329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f6b0e1911724492b9f7b55ffab481e4
+run_name: crawling-bat-944
+run_uuid: 2f6b0e1911724492b9f7b55ffab481e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702968353194
+status: 3
+tags: []
+user_id: CHS9NA
